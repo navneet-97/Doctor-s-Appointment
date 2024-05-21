@@ -12,10 +12,7 @@ Welcome to the Doctor's Appointment Page! This web application allows users to s
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (or any database you used)
-- **WebSocket Library**: Socket.io (if used for real-time updates)
-- **Authentication**: Passport.js (or any other method you used)
-- **Other Libraries**: (List any other libraries or frameworks you used)
+- **Database**: MongoDB 
 
 ## Installation
 
